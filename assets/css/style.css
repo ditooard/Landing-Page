@@ -265,7 +265,7 @@ section {
 }
 
 .section-title {
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 .section-title h2 {
   font-size: 32px;
@@ -302,7 +302,7 @@ section {
   padding: 0;
 }
 .about .content ul li {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   display: flex;
   align-items: center;
 }
@@ -323,7 +323,8 @@ section {
 # Facts
 --------------------------------------------------------------*/
 .facts {
-  padding-bottom: 30px;
+  padding-bottom: 0px;
+  padding-top: 0px
 }
 .facts .count-box {
   padding: 30px;
