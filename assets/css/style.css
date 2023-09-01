@@ -490,6 +490,9 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  display: flex;
+  justify-content: center; /* Pusat horizontal */
+  align-items: center; /* Pusat vertikal */
 }
 .portfolio .portfolio-wrap::before {
   content: "";
